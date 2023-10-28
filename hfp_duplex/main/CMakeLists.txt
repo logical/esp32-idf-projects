@@ -1,0 +1,11 @@
+idf_component_register(SRCS     "FMTX.c"
+                                "components/ssd1306/ssd1306.c"
+                                "components/ssd1306/ssd1306_i2c.c"
+                                "components/ssd1306/ssd1306_spi.c"
+                                "sd_card_player.c"
+                                "app_hf_msg_prs.c"
+                                "app_hf_msg_set.c"
+                                "bt_app_core.c"
+                                "bt_app_hf.c"
+                                "main.c"
+                    INCLUDE_DIRS ".")
