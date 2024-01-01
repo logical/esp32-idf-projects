@@ -1,6 +1,7 @@
 # sp32-idf-projects
 These projects are to be unfinished examples of the capabilities of esp32.
 They are unfinshed only because they may require cusomization for different applications.
+Wire wrap is durable but easy to change.
 
 ## hfp_duplex
 This project is an example of a hands free system.
