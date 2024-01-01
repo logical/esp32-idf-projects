@@ -12,4 +12,5 @@ This project is an example of a hands free system.
 ## sdspi_softap
 This is a captive portal using an sd card to store files.
 ![IMG_20240101_141727113_HDR](https://github.com/logical/esp32-idf-projects/assets/789118/14aaca04-fe49-4542-9ae3-1537cacb089a)
-![IMG_20240101_141727113_HDR](https://github.com/logical/esp32-idf-projects/assets/789118/a549efb5-f9c3-4a01-9cb1-bdd7229e56e4)
+![IMG_20240101_141746284_HDR](https://github.com/logical/esp32-idf-projects/assets/789118/add1ea6f-6f4a-4403-bb7d-4d6ac591c073)
+
