@@ -1,6 +1,7 @@
 # sp32-idf-projects
 These projects are to be unfinished examples of the capabilities of esp32.
-They are unfinshed only because they may require cusomization for different applications.
+They are unfinished because they may require customization for different applications.
+I don't need them right now. Maybe someone else does.
 Wire wrap is durable but easy to change.
 
 ## hfp_duplex
